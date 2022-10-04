@@ -5,7 +5,7 @@
 - 📚 I'm currently reading Hack Proofing Linux: A Guide to Open Source Security, Making Games for the Atari 2600, ADHD 2.0 and Ready Player Two
 - 🎞️ My favorite movies are Pretty in Pink, Elysium, Catch Me If You Can, Ferris Bueller's Day Off and The Hitchhiker's Guide to the Galaxy
 - 💞️ I’m looking to collaborate on making the internet a more free, accessible and secure place.
-- 📫 You can reach me by my email (demosthenes@gmx.us) or through my Reddit account (DemosthensTheWise)
+- 📫 You can reach me by my (burner) email (DemosthenesL0cke@gmx.com) or through my Reddit account (DemosthensTheWise)
 
 <!---
 Patrick-Ames/Patrick-Ames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
